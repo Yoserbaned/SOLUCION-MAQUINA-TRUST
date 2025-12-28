@@ -92,7 +92,7 @@ como nombre al principio  de este repositorio, la tecnica que utilice para ser u
     # whoami
     root
 
-la hipotesis fue correcta, el archivo "sudoers" , tenia permitido que el usuario mario pudiese ejecutar un comando con sudo, lo que me hizo ser root
+la hipotesis fue correcta, el archivo "sudoers" , tiene permitido que el usuario mario pudiese ejecutar un comando con sudo, lo que me hizo ser root
 
 #RECOMENDACIONES
 ---------------
